@@ -1,6 +1,6 @@
 # Classify-Iris-Flowers
 
-This project: classifying Iris flowers using various machine learning techniques. Through this project, I delved into the fundamentals of machine learning and applied them to real-world data.
+This project: classifying Iris flowers using various machine learning techniques. I classified the dataset based on their Sepal and Petal dimensions.
 
 Using the renowned Iris dataset, I explored different machine learning algorithms such as Decision Trees, Support Vector Machines, and Logistic Regression. 
 
